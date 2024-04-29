@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heiban
+  - xiaoshe
+  - xiaoya
+  - xiaocao
+  - Enemy
+  - Dunpai
+  - Bo
+  - BigBo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Bo
+  - DaBo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer 5
+    uniqueID: 3126911689
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3712327883
+    locked: 0
+  - name: Ground
+    uniqueID: 3815171499
+    locked: 0
+  - name: Pet
+    uniqueID: 1102661483
+    locked: 0
+  - name: Player
+    uniqueID: 1051035463
+    locked: 0
